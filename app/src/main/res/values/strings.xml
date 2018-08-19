@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ap</string>
+    <string-array name="array">
+        <item>サイトに接続</item>
+        <item>終了</item>
+        <item>layout</item>
+        <item>開始</item>
+    </string-array>
+</resources>
